@@ -1,0 +1,115 @@
+body{
+    background-color:#fffaf2;
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+header{
+    background-color: #222F3F;
+}
+header img{
+    margin-left: 30px;
+    margin-top: 15px;
+    margin-bottom: 10px;
+    width: 120px;
+}
+nav ul li {
+    display: inline;
+    padding: 10px;
+}
+nav{
+    background-color:#36475B;
+    
+}
+ul li a{
+    color: white;
+    text-decoration: none;
+    font-size: 1.4rem;
+    
+}
+ul{
+    margin-top: 0;
+}
+main h3 {
+    background-color:#f56600;
+    color: white;
+    text-align: center;
+}
+#jubotron{
+    background-image: url("assets/bg-image.png");
+    background-size: cover;
+    text-align: center;
+    color: white;
+    padding: 30px;
+}
+main{
+    width: 98%;
+    margin: auto;
+
+}
+#bgWhite {
+    background-color: white;
+    padding: 20px;
+    margin-top: 30px;
+  
+}
+#bgWhite p{
+    display: inline;
+    font-weight: bold;
+    margin: 0;
+    text-align: left;
+    color: black;
+}
+.width24{
+    display: inline-block;
+}
+.width24 img{
+    width: 350px;
+    height: 500px;
+    border-radius: 30px;
+    object-fit: cover;
+    margin-left: 70px;
+}
+.textb{
+    color: hsl(189.09deg 98.51% 26.27%);
+    font-weight: bold;
+}
+#visor img{
+    width: 100%;
+
+}
+#visor p{
+    font-weight: 600;
+    margin: 0;
+    text-align: center;
+    color: black;
+    font-size: 1.2rem;
+}
+#glass p{
+    font-weight: 600;
+    margin: 0;
+    text-align: center;
+    color: black;
+    font-size: 1.2rem;
+}
+#glass img{
+    width: 100%;
+}
+#bktop{
+    background-color:#36475B;
+    padding: 20px;
+    text-align: center;
+    font-size: 1.4rem;
+}
+#bktop a {
+   color: white;
+}
+#finLog {
+    padding-top: 50px;
+    padding-bottom: 50px;
+    background-color:#222F3F;
+    text-align: center;
+}
+#finLog img{
+    width: 250px;
+}
