@@ -1,0 +1,2 @@
+# amazon
+Esercizio prima settimana
